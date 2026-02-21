@@ -2,7 +2,7 @@
 
 A fully open, reproducible **DSAS-style shoreline change analysis** implemented entirely in Python. Eleven cloud-free Sentinel-2 scenes are classified into water and land with the Modified Normalised Difference Water Index and Otsu thresholding; the shoreline of each scene is recovered as a polyline; a baseline and 500 m perpendicular transects are constructed; and End Point Rates, Linear Regression Rates and Weighted Linear Regression Rates are computed per transect, with uncertainties.
 
-Author: Tunde Akinlade ([Akin-Tunde](https://github.com/Akin-Tunde)) · Marine science graduate (B.Tech, Federal University of Technology Akure) · Licensed under the [MIT License](LICENSE).
+Author: Akinsunmi Tunde ([Akin-Tunde](https://github.com/Akin-Tunde)) · Marine science graduate (B.Tech, Federal University of Technology Akure) · Licensed under the [MIT License](LICENSE).
 
 ---
 
